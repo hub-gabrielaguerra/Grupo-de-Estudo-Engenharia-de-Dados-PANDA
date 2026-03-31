@@ -4,16 +4,16 @@ Este repositório contém as práticas desenvolvidas durante o grupo de estudos 
 
 ## Estrutura
 
-- Prática 1: Fundamentos e manipulação de dados
-- Prática 2: SQL e bancos de dados
-- Prática 3: ETL e fontes de dados
-- Prática 4:
-- Prática 4:
-- Prática 6:
-- Prática 7:
-- Prática 8:
-- Prática 9:
-- Prática 10: 
+-Prática 1: Fundamentos
+-Prática 2: apis-etl
+-Prática 3: sql-bancos
+-Prática 4: modelagem-dados
+-Prática 5: etl-avancado
+-Prática 6: orquestracao-airflow
+-Prática 7: data-warehouse
+-Prática 8: projeto-definicao
+-Prática 9: projeto-implementacao
+-Prática 10: projeto-final
 
 ## Tecnologias
 - Google Colab
